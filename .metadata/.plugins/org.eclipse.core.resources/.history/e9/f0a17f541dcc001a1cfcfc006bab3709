@@ -1,0 +1,18 @@
+package com.scripts;
+
+import org.testng.annotations.Test;
+
+
+import com.pages.StorageDisplayPage;
+
+public class StorageDisplayTest extends AmazonLoginTest
+
+{
+	@Test
+	public void displayMobileWith128Storgae()
+	{
+		StorageDisplayPage disp=new StorageDisplayPage(driver);
+		disp.get128StorageMobile();
+		
+	}
+}

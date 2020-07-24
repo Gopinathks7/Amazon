@@ -1,0 +1,14 @@
+package com.scripts;
+
+import org.testng.annotations.Test;
+
+import com.common.BaseTest;
+
+public class SearchTest extends BaseTest
+{
+@Test
+public void search() 
+{
+	
+}
+}

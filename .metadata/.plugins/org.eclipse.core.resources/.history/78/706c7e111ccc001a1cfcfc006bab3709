@@ -1,0 +1,34 @@
+package com.pages;
+
+
+
+import java.util.List;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+import com.common.BasePage;
+
+public class StorageDisplayPage extends BasePage
+
+{
+
+	public StorageDisplayPage(WebDriver driver) {
+		super(driver);
+		PageFactory.initElements(driver, this);
+	}
+	@FindBy (xpath=".//span[contains(text(),'128GB Storage')]")
+	private List<WebElement>storage;
+
+	public void get128StorageMobile()
+	{
+		int count=storage.size();
+		for(int number=0;number>count;number++)
+		{
+			WebElement mobilestorage=storage.get(number);
+			
+		}
+	}
+}

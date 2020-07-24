@@ -1,0 +1,14 @@
+package com.pages;
+
+import org.openqa.selenium.support.PageFactory;
+
+import com.common.BasePage;
+
+public class SearchPage extends BasePage
+{
+	public SearchPage() 
+	{
+		super(driver);
+		PageFactory.initElements(driver, this);
+	}
+}

@@ -1,0 +1,11 @@
+2020-07-23 18:22:11,084 - com.scripts.SearchTest - INFO - Initalising the  ExtentReport 
+2020-07-23 18:22:11,422 - com.scripts.SearchTest - INFO - Execution started on Browser:Chrome 
+2020-07-23 18:22:11,493 - com.scripts.SearchTest - INFO - Execution Started on Browser:Chrome 
+2020-07-23 18:23:54,036 - com.pages.SearchPage - INFO - Samsung Galaxy A9 (Caviar Black, 8GB RAM, 128GB Storage) 
+2020-07-23 18:23:54,240 - com.pages.SearchPage - INFO - Samsung Galaxy A9 (Bubble Gum Pink, 6GB RAM, 128GB Storage) 
+2020-07-23 18:23:54,562 - com.pages.SearchPage - INFO - Samsung Galaxy M31 (Space Black, 6GB RAM, 128GB Storage) 
+2020-07-23 18:23:54,755 - com.pages.SearchPage - INFO - (Renewed) Samsung Galaxy A9 SM-A920FZKDINS (Caviar Black, 6GB RAM, 128GB Storage) 
+2020-07-23 18:23:54,930 - com.pages.SearchPage - INFO - Samsung Galaxy A71 (Prism Crush Black, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers 
+2020-07-23 18:23:55,055 - com.pages.SearchPage - INFO - Oppo Reno3 Pro (Midnight Black, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers 
+2020-07-23 18:23:55,075 - com.scripts.SearchTest - INFO - Execution completed on Browser:Chrome 
+2020-07-23 18:23:55,329 - com.scripts.SearchTest - INFO - Finalizing ExtentReport 

@@ -1,0 +1,24 @@
+2020-07-23 18:30:08,783 - com.scripts.SearchTest - INFO - Initalising the  ExtentReport 
+2020-07-23 18:30:09,304 - com.scripts.SearchTest - INFO - Browser: Selected is Chrome 
+2020-07-23 18:30:09,358 - com.scripts.SearchTest - INFO - Application Started on Browser:Chrome 
+2020-07-23 18:31:51,258 - com.pages.SearchPage - INFO - Samsung Galaxy A9 (Caviar Black, 8GB RAM, 128GB Storage) 
+2020-07-23 18:31:51,406 - com.pages.SearchPage - INFO - Samsung Galaxy A9 (Bubble Gum Pink, 6GB RAM, 128GB Storage) 
+2020-07-23 18:31:51,609 - com.pages.SearchPage - INFO - (Renewed) Samsung Galaxy A9 SM-A920FZKDINS (Caviar Black, 6GB RAM, 128GB Storage) 
+2020-07-23 18:31:51,715 - com.pages.SearchPage - INFO - Samsung Galaxy M31 (Space Black, 6GB RAM, 128GB Storage) 
+2020-07-23 18:31:51,802 - com.pages.SearchPage - INFO - Samsung Galaxy A71 (Prism Crush Black, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers 
+2020-07-23 18:31:51,814 - com.scripts.SearchTest - INFO - Execution completed on Browser:Chrome 
+2020-07-23 18:31:51,844 - com.scripts.SearchTest - INFO - Finalizing ExtentReport 
+2020-07-23 18:33:15,898 - com.scripts.SearchTest - INFO - Initalising the  ExtentReport 
+2020-07-23 18:33:16,269 - com.scripts.SearchTest - INFO - Browser: Selected is Chrome 
+2020-07-23 18:33:16,299 - com.scripts.SearchTest - INFO - Application Started on Browser:Chrome 
+2020-07-23 18:34:52,134 - com.pages.SearchPage - INFO - Samsung Galaxy A9 (Caviar Black, 8GB RAM, 128GB Storage) 
+2020-07-23 18:34:52,222 - com.pages.SearchPage - INFO - Samsung Galaxy A9 (Bubble Gum Pink, 6GB RAM, 128GB Storage) 
+2020-07-23 18:34:52,296 - com.pages.SearchPage - INFO - Samsung Galaxy M31 (Space Black, 6GB RAM, 128GB Storage) 
+2020-07-23 18:34:52,361 - com.pages.SearchPage - INFO - (Renewed) Samsung Galaxy A9 SM-A920FZKDINS (Caviar Black, 6GB RAM, 128GB Storage) 
+2020-07-23 18:34:52,429 - com.pages.SearchPage - INFO - Samsung Galaxy A71 (Prism Crush Black, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers 
+2020-07-23 18:34:52,494 - com.pages.SearchPage - INFO - Samsung Galaxy M21 (Midnight Blue, 6GB RAM, 128GB Storage) 
+2020-07-23 18:34:52,568 - com.pages.SearchPage - INFO - Samsung Galaxy A51 (Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers 
+2020-07-23 18:34:52,639 - com.pages.SearchPage - INFO - Samsung Galaxy A51 (Black, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers 
+2020-07-23 18:34:52,707 - com.pages.SearchPage - INFO - Oppo Reno3 Pro (Midnight Black, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers 
+2020-07-23 18:34:52,722 - com.scripts.SearchTest - INFO - Execution completed on Browser:Chrome 
+2020-07-23 18:34:53,406 - com.scripts.SearchTest - INFO - Finalizing ExtentReport 

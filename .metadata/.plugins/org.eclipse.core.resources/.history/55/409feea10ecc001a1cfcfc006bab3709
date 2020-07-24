@@ -1,0 +1,7 @@
+URL=https://login.yahoo.com/
+IMPLICIT=20
+EXPLICIT=10
+UN=admin
+PW=admin
+LOGIN=login
+HOME=dashboard

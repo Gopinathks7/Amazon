@@ -1,0 +1,58 @@
+2020-07-23 15:24:35,193 - com.scripts.SearchTest - INFO - initializing ExtentReport 
+2020-07-23 15:24:35,649 - com.scripts.SearchTest - INFO - Execution started on Browser:firefox 
+2020-07-23 15:24:35,712 - com.scripts.SearchTest - INFO - Browser:chrome 
+2020-07-23 15:24:54,255 - com.scripts.SearchTest - INFO - TimeOut:20 
+2020-07-23 15:24:54,355 - com.scripts.SearchTest - INFO - implicit login 
+2020-07-23 15:25:25,691 - com.scripts.SearchTest - INFO - implicit login 
+2020-07-23 15:25:44,098 - com.pages.SearchPage - INFO - Samsung Galaxy S20 + (Cosmic Gray, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers 
+2020-07-23 15:25:44,280 - com.pages.SearchPage - INFO - Samsung Galaxy A9 (Caviar Black, 8GB RAM, 128GB Storage) 
+2020-07-23 15:25:44,430 - com.pages.SearchPage - INFO - Samsung Galaxy A9 (Bubble Gum Pink, 6GB RAM, 128GB Storage) 
+2020-07-23 15:25:44,563 - com.pages.SearchPage - INFO - Samsung Galaxy M31 (Space Black, 6GB RAM, 128GB Storage) 
+2020-07-23 15:25:44,753 - com.pages.SearchPage - INFO - (Renewed) Samsung Galaxy A9 SM-A920FZKDINS (Caviar Black, 6GB RAM, 128GB Storage) 
+2020-07-23 15:25:44,875 - com.pages.SearchPage - INFO - Samsung Galaxy A71 (Prism Crush Black, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers 
+2020-07-23 15:25:44,901 - com.scripts.SearchTest - INFO - Execution completed on Browser:chrome 
+2020-07-23 15:25:44,987 - com.scripts.SearchTest - INFO - finalizing ExtentReport 
+2020-07-23 15:28:46,321 - com.scripts.SearchTest - INFO - initializing ExtentReport 
+2020-07-23 15:28:46,804 - com.scripts.SearchTest - INFO - Execution started on Browser:firefox 
+2020-07-23 15:28:46,847 - com.scripts.SearchTest - INFO - Browser:chrome 
+2020-07-23 15:29:02,962 - com.scripts.SearchTest - INFO - TimeOut:20 
+2020-07-23 15:29:03,081 - com.scripts.SearchTest - INFO - implicit login 
+2020-07-23 15:29:51,477 - com.scripts.SearchTest - INFO - implicit login 
+2020-07-23 15:30:17,613 - com.pages.SearchPage - INFO - Samsung Galaxy S20 + (Cosmic Gray, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers 
+2020-07-23 15:30:17,707 - com.pages.SearchPage - INFO - Samsung Galaxy A9 (Caviar Black, 8GB RAM, 128GB Storage) 
+2020-07-23 15:30:17,811 - com.pages.SearchPage - INFO - Samsung Galaxy A9 (Bubble Gum Pink, 6GB RAM, 128GB Storage) 
+2020-07-23 15:30:17,940 - com.pages.SearchPage - INFO - Samsung Galaxy M31 (Space Black, 6GB RAM, 128GB Storage) 
+2020-07-23 15:30:18,084 - com.pages.SearchPage - INFO - (Renewed) Samsung Galaxy A9 SM-A920FZKDINS (Caviar Black, 6GB RAM, 128GB Storage) 
+2020-07-23 15:30:18,289 - com.pages.SearchPage - INFO - Samsung Galaxy A71 (Prism Crush Black, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers 
+2020-07-23 15:30:18,327 - com.scripts.SearchTest - INFO - Execution completed on Browser:chrome 
+2020-07-23 15:30:18,502 - com.scripts.SearchTest - INFO - finalizing ExtentReport 
+2020-07-23 15:33:42,376 - com.scripts.SearchTest - INFO - initializing ExtentReport 
+2020-07-23 15:33:42,919 - com.scripts.SearchTest - INFO - Execution started on Browser:firefox 
+2020-07-23 15:33:42,974 - com.scripts.SearchTest - INFO - Browser:chrome 
+2020-07-23 15:34:17,545 - com.scripts.SearchTest - INFO - TimeOut:20 
+2020-07-23 15:34:17,618 - com.scripts.SearchTest - INFO - implicit login 
+2020-07-23 15:34:57,711 - com.scripts.SearchTest - INFO - implicit login 
+2020-07-23 15:35:16,827 - com.pages.SearchPage - INFO - Samsung Galaxy S20 + (Cosmic Gray, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers 
+2020-07-23 15:35:17,588 - com.pages.SearchPage - INFO - Samsung Galaxy A9 (Caviar Black, 8GB RAM, 128GB Storage) 
+2020-07-23 15:35:20,884 - com.pages.SearchPage - INFO - Samsung Galaxy A9 (Bubble Gum Pink, 6GB RAM, 128GB Storage) 
+2020-07-23 15:35:21,033 - com.pages.SearchPage - INFO - Samsung Galaxy M31 (Space Black, 6GB RAM, 128GB Storage) 
+2020-07-23 15:35:21,278 - com.pages.SearchPage - INFO - (Renewed) Samsung Galaxy A9 SM-A920FZKDINS (Caviar Black, 6GB RAM, 128GB Storage) 
+2020-07-23 15:35:21,425 - com.pages.SearchPage - INFO - Samsung Galaxy A71 (Prism Crush Black, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers 
+2020-07-23 15:35:21,445 - com.scripts.SearchTest - INFO - Execution completed on Browser:chrome 
+2020-07-23 15:35:21,526 - com.scripts.SearchTest - INFO - finalizing ExtentReport 
+2020-07-23 17:36:21,609 - com.scripts.SearchTest - INFO - initializing ExtentReport 
+2020-07-23 17:36:22,551 - com.scripts.SearchTest - INFO - Execution started on Browser:firefox 
+2020-07-23 17:36:22,612 - com.scripts.SearchTest - INFO - Browser:chrome 
+2020-07-23 17:37:12,527 - com.scripts.SearchTest - INFO - TimeOut:20 
+2020-07-23 17:37:12,586 - com.scripts.SearchTest - INFO - implicit login 
+2020-07-23 17:37:43,708 - com.scripts.SearchTest - INFO - implicit login 
+2020-07-23 17:38:11,554 - com.pages.SearchPage - INFO - Samsung Galaxy A9 (Caviar Black, 8GB RAM, 128GB Storage) 
+2020-07-23 17:38:11,714 - com.pages.SearchPage - INFO - Samsung Galaxy A9 (Bubble Gum Pink, 6GB RAM, 128GB Storage) 
+2020-07-23 17:38:12,106 - com.pages.SearchPage - INFO - Samsung Galaxy M31 (Space Black, 6GB RAM, 128GB Storage) 
+2020-07-23 17:38:12,223 - com.pages.SearchPage - INFO - (Renewed) Samsung Galaxy A9 SM-A920FZKDINS (Caviar Black, 6GB RAM, 128GB Storage) 
+2020-07-23 17:38:12,523 - com.pages.SearchPage - INFO - Samsung Galaxy A71 (Prism Crush Black, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers 
+2020-07-23 17:38:12,679 - com.pages.SearchPage - INFO - Samsung Galaxy M21 (Midnight Blue, 6GB RAM, 128GB Storage) 
+2020-07-23 17:38:12,773 - com.pages.SearchPage - INFO - Samsung Galaxy A51 (Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers 
+2020-07-23 17:38:12,845 - com.pages.SearchPage - INFO - Samsung Galaxy A51 (Black, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers 
+2020-07-23 17:38:12,863 - com.scripts.SearchTest - INFO - Execution completed on Browser:chrome 
+2020-07-23 17:38:13,107 - com.scripts.SearchTest - INFO - finalizing ExtentReport 

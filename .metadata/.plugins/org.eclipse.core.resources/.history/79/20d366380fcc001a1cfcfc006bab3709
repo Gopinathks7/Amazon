@@ -1,0 +1,15 @@
+package com.pages;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.support.PageFactory;
+
+import com.common.BaseTest;
+
+public class AmazonLoginPage  extends BaseTest
+
+{
+	public AmazonLoginPage(WebDriver driver) 
+	{
+		PageFactory.initElements(driver, this);
+	}
+}

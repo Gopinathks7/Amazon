@@ -1,0 +1,8 @@
+2020-07-23 15:21:54,133 - com.scripts.SearchTest - INFO - initializing ExtentReport 
+2020-07-23 15:21:54,564 - com.scripts.SearchTest - INFO - Execution started on Browser:firefox 
+2020-07-23 15:21:54,614 - com.scripts.SearchTest - INFO - Browser:chrome 
+2020-07-23 15:22:25,518 - com.scripts.SearchTest - INFO - TimeOut:20 
+2020-07-23 15:22:25,587 - com.scripts.SearchTest - INFO - implicit login 
+2020-07-23 15:23:02,217 - com.scripts.SearchTest - INFO - implicit login 
+2020-07-23 15:23:52,327 - com.scripts.SearchTest - INFO - Execution completed on Browser:chrome 
+2020-07-23 15:23:52,395 - com.scripts.SearchTest - INFO - finalizing ExtentReport 

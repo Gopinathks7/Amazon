@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="56860" started-at="2020-07-23T18:37:39 IST" finished-at="2020-07-23T18:38:36 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="56860" started-at="2020-07-23T18:37:39 IST" finished-at="2020-07-23T18:38:36 IST">
+      <class name="com.scripts.SearchTest">
+        <test-method status="PASS" signature="initFrameWork()[pri:0, instance:com.scripts.SearchTest@5ed828d]" name="initFrameWork" is-config="true" duration-ms="784" started-at="2020-07-23T18:37:39 IST" finished-at="2020-07-23T18:37:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initFrameWork -->
+        <test-method status="PASS" signature="initBrowser(java.lang.String)[pri:0, instance:com.scripts.SearchTest@5ed828d]" name="initBrowser" is-config="true" duration-ms="18" started-at="2020-07-23T18:37:39 IST" finished-at="2020-07-23T18:37:39 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method status="PASS" signature="initApplication(java.lang.String)[pri:0, instance:com.scripts.SearchTest@5ed828d]" name="initApplication" is-config="true" duration-ms="16929" started-at="2020-07-23T18:37:39 IST" finished-at="2020-07-23T18:37:56 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initApplication -->
+        <test-method status="PASS" signature="preCondition(java.lang.reflect.Method)[pri:0, instance:com.scripts.SearchTest@5ed828d]" name="preCondition" is-config="true" duration-ms="2736" started-at="2020-07-23T18:37:56 IST" finished-at="2020-07-23T18:37:59 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.scripts.AmazonLoginTest.AmazonLoginTesting()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="AmazonLoginTesting()[pri:0, instance:com.scripts.SearchTest@5ed828d]" name="AmazonLoginTesting" duration-ms="25056" started-at="2020-07-23T18:37:59 IST" finished-at="2020-07-23T18:38:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AmazonLoginTesting -->
+        <test-method status="PASS" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.scripts.SearchTest@5ed828d]" name="postCondition" is-config="true" duration-ms="11" started-at="2020-07-23T18:38:24 IST" finished-at="2020-07-23T18:38:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=AmazonLoginTesting status=SUCCESS method=AmazonLoginTest.AmazonLoginTesting()[pri:0, instance:com.scripts.SearchTest@5ed828d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="preCondition(java.lang.reflect.Method)[pri:0, instance:com.scripts.SearchTest@5ed828d]" name="preCondition" is-config="true" duration-ms="2156" started-at="2020-07-23T18:38:24 IST" finished-at="2020-07-23T18:38:26 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.scripts.SearchTest.search()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="search()[pri:0, instance:com.scripts.SearchTest@5ed828d]" name="search" duration-ms="9851" started-at="2020-07-23T18:38:26 IST" finished-at="2020-07-23T18:38:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.scripts.SearchTest@5ed828d]" name="postCondition" is-config="true" duration-ms="1" started-at="2020-07-23T18:38:36 IST" finished-at="2020-07-23T18:38:36 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=search status=SUCCESS method=SearchTest.search()[pri:0, instance:com.scripts.SearchTest@5ed828d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="cleanApplication()[pri:0, instance:com.scripts.SearchTest@5ed828d]" name="cleanApplication" is-config="true" duration-ms="0" started-at="2020-07-23T18:38:36 IST" finished-at="2020-07-23T18:38:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanApplication -->
+        <test-method status="PASS" signature="closeBrowser(java.lang.String)[pri:0, instance:com.scripts.SearchTest@5ed828d]" name="closeBrowser" is-config="true" duration-ms="2" started-at="2020-07-23T18:38:36 IST" finished-at="2020-07-23T18:38:36 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="closeFrameWork()[pri:0, instance:com.scripts.SearchTest@5ed828d]" name="closeFrameWork" is-config="true" duration-ms="739" started-at="2020-07-23T18:38:36 IST" finished-at="2020-07-23T18:38:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeFrameWork -->
+      </class> <!-- com.scripts.SearchTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

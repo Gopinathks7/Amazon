@@ -1,0 +1,2259 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Jul 23 15:21:53 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:53</td>
+<td title="Message">initializing ExtentReport</td>
+</tr>
+
+<tr>
+<td>431</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:71</td>
+<td title="Message">Execution started on Browser:firefox</td>
+</tr>
+
+<tr>
+<td>481</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:83</td>
+<td title="Message">Browser:chrome</td>
+</tr>
+
+<tr>
+<td>31385</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:94</td>
+<td title="Message">TimeOut:20</td>
+</tr>
+
+<tr>
+<td>31454</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:109</td>
+<td title="Message">implicit login</td>
+</tr>
+
+<tr>
+<td>68084</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:109</td>
+<td title="Message">implicit login</td>
+</tr>
+
+<tr>
+<td>118194</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:77</td>
+<td title="Message">Execution completed on Browser:chrome</td>
+</tr>
+
+<tr>
+<td>118262</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:63</td>
+<td title="Message">finalizing ExtentReport</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Jul 23 15:24:34 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:53</td>
+<td title="Message">initializing ExtentReport</td>
+</tr>
+
+<tr>
+<td>456</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:71</td>
+<td title="Message">Execution started on Browser:firefox</td>
+</tr>
+
+<tr>
+<td>519</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:83</td>
+<td title="Message">Browser:chrome</td>
+</tr>
+
+<tr>
+<td>19062</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:94</td>
+<td title="Message">TimeOut:20</td>
+</tr>
+
+<tr>
+<td>19162</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:109</td>
+<td title="Message">implicit login</td>
+</tr>
+
+<tr>
+<td>50498</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:109</td>
+<td title="Message">implicit login</td>
+</tr>
+
+<tr>
+<td>68905</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy S20 + (Cosmic Gray, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers</td>
+</tr>
+
+<tr>
+<td>69087</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A9 (Caviar Black, 8GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>69237</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A9 (Bubble Gum Pink, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>69370</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy M31 (Space Black, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>69560</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">(Renewed) Samsung Galaxy A9 SM-A920FZKDINS (Caviar Black, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>69682</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A71 (Prism Crush Black, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers</td>
+</tr>
+
+<tr>
+<td>69708</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:77</td>
+<td title="Message">Execution completed on Browser:chrome</td>
+</tr>
+
+<tr>
+<td>69794</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:63</td>
+<td title="Message">finalizing ExtentReport</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Jul 23 15:28:45 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:53</td>
+<td title="Message">initializing ExtentReport</td>
+</tr>
+
+<tr>
+<td>483</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:71</td>
+<td title="Message">Execution started on Browser:firefox</td>
+</tr>
+
+<tr>
+<td>526</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:83</td>
+<td title="Message">Browser:chrome</td>
+</tr>
+
+<tr>
+<td>16641</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:94</td>
+<td title="Message">TimeOut:20</td>
+</tr>
+
+<tr>
+<td>16760</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:109</td>
+<td title="Message">implicit login</td>
+</tr>
+
+<tr>
+<td>65156</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:109</td>
+<td title="Message">implicit login</td>
+</tr>
+
+<tr>
+<td>91292</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy S20 + (Cosmic Gray, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers</td>
+</tr>
+
+<tr>
+<td>91386</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A9 (Caviar Black, 8GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>91490</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A9 (Bubble Gum Pink, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>91619</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy M31 (Space Black, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>91763</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">(Renewed) Samsung Galaxy A9 SM-A920FZKDINS (Caviar Black, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>91968</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A71 (Prism Crush Black, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers</td>
+</tr>
+
+<tr>
+<td>92006</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:77</td>
+<td title="Message">Execution completed on Browser:chrome</td>
+</tr>
+
+<tr>
+<td>92181</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:63</td>
+<td title="Message">finalizing ExtentReport</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Jul 23 15:33:41 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:53</td>
+<td title="Message">initializing ExtentReport</td>
+</tr>
+
+<tr>
+<td>543</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:71</td>
+<td title="Message">Execution started on Browser:firefox</td>
+</tr>
+
+<tr>
+<td>598</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:83</td>
+<td title="Message">Browser:chrome</td>
+</tr>
+
+<tr>
+<td>35169</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:94</td>
+<td title="Message">TimeOut:20</td>
+</tr>
+
+<tr>
+<td>35242</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:109</td>
+<td title="Message">implicit login</td>
+</tr>
+
+<tr>
+<td>75335</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:109</td>
+<td title="Message">implicit login</td>
+</tr>
+
+<tr>
+<td>94451</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy S20 + (Cosmic Gray, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers</td>
+</tr>
+
+<tr>
+<td>95212</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A9 (Caviar Black, 8GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>98508</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A9 (Bubble Gum Pink, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>98657</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy M31 (Space Black, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>98902</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">(Renewed) Samsung Galaxy A9 SM-A920FZKDINS (Caviar Black, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>99049</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A71 (Prism Crush Black, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers</td>
+</tr>
+
+<tr>
+<td>99069</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:77</td>
+<td title="Message">Execution completed on Browser:chrome</td>
+</tr>
+
+<tr>
+<td>99150</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:63</td>
+<td title="Message">finalizing ExtentReport</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Jul 23 17:36:20 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:53</td>
+<td title="Message">initializing ExtentReport</td>
+</tr>
+
+<tr>
+<td>942</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:71</td>
+<td title="Message">Execution started on Browser:firefox</td>
+</tr>
+
+<tr>
+<td>1003</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:83</td>
+<td title="Message">Browser:chrome</td>
+</tr>
+
+<tr>
+<td>50918</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:94</td>
+<td title="Message">TimeOut:20</td>
+</tr>
+
+<tr>
+<td>50977</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:109</td>
+<td title="Message">implicit login</td>
+</tr>
+
+<tr>
+<td>82099</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:109</td>
+<td title="Message">implicit login</td>
+</tr>
+
+<tr>
+<td>109945</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A9 (Caviar Black, 8GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>110105</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A9 (Bubble Gum Pink, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>110497</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy M31 (Space Black, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>110614</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">(Renewed) Samsung Galaxy A9 SM-A920FZKDINS (Caviar Black, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>110914</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A71 (Prism Crush Black, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers</td>
+</tr>
+
+<tr>
+<td>111070</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy M21 (Midnight Blue, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>111164</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A51 (Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers</td>
+</tr>
+
+<tr>
+<td>111236</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A51 (Black, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers</td>
+</tr>
+
+<tr>
+<td>111254</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:77</td>
+<td title="Message">Execution completed on Browser:chrome</td>
+</tr>
+
+<tr>
+<td>111498</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:63</td>
+<td title="Message">finalizing ExtentReport</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Jul 23 17:41:00 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:53</td>
+<td title="Message">initializing ExtentReport</td>
+</tr>
+
+<tr>
+<td>1582</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:71</td>
+<td title="Message">Execution started on Browser:firefox</td>
+</tr>
+
+<tr>
+<td>1626</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:83</td>
+<td title="Message">Browser:chrome</td>
+</tr>
+
+<tr>
+<td>22316</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:94</td>
+<td title="Message">TimeOut:20</td>
+</tr>
+
+<tr>
+<td>22376</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:109</td>
+<td title="Message">implicit login</td>
+</tr>
+
+<tr>
+<td>47342</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:109</td>
+<td title="Message">implicit login</td>
+</tr>
+
+<tr>
+<td>69237</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A9 (Caviar Black, 8GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>69319</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A9 (Bubble Gum Pink, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>69424</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy M31 (Space Black, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>69537</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">(Renewed) Samsung Galaxy A9 SM-A920FZKDINS (Caviar Black, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>69727</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A71 (Prism Crush Black, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers</td>
+</tr>
+
+<tr>
+<td>69861</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Oppo Reno3 Pro (Midnight Black, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers</td>
+</tr>
+
+<tr>
+<td>69882</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:77</td>
+<td title="Message">Execution completed on Browser:chrome</td>
+</tr>
+
+<tr>
+<td>69957</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:63</td>
+<td title="Message">finalizing ExtentReport</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Jul 23 17:58:55 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:47</td>
+<td title="Message">Launching ExtentReport</td>
+</tr>
+
+<tr>
+<td>623</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:62</td>
+<td title="Message">Execution started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>698</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:75</td>
+<td title="Message">Execution Started on Browser:Chrome</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Jul 23 18:01:41 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:47</td>
+<td title="Message">Initalising the  ExtentReport</td>
+</tr>
+
+<tr>
+<td>1513</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:62</td>
+<td title="Message">Execution started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>1603</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:75</td>
+<td title="Message">Execution Started on Browser:Chrome</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Jul 23 18:07:05 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:47</td>
+<td title="Message">Initalising the  ExtentReport</td>
+</tr>
+
+<tr>
+<td>846</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:62</td>
+<td title="Message">Execution started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>925</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:75</td>
+<td title="Message">Execution Started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>100240</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A9 (Caviar Black, 8GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>100364</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy M31 (Space Black, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>100471</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">(Renewed) Samsung Galaxy A9 SM-A920FZKDINS (Caviar Black, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>100609</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy M21 (Midnight Blue, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>100770</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A9 (Bubble Gum Pink, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>101105</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy M31 (Ocean Blue, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>101268</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A51 (Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers</td>
+</tr>
+
+<tr>
+<td>101365</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A51 (Blue, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers</td>
+</tr>
+
+<tr>
+<td>101454</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A51 (Black, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers</td>
+</tr>
+
+<tr>
+<td>101644</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A71 (Prism Crush Black, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers</td>
+</tr>
+
+<tr>
+<td>101761</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A50s (Prism Crush Black, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>101877</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy M40 (Midnight Blue, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>101893</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:68</td>
+<td title="Message">Execution completed on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>102114</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:55</td>
+<td title="Message">Finalizing ExtentReport</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Jul 23 18:11:03 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:47</td>
+<td title="Message">Initalising the  ExtentReport</td>
+</tr>
+
+<tr>
+<td>1755</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:62</td>
+<td title="Message">Execution started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>1828</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:75</td>
+<td title="Message">Execution Started on Browser:Chrome</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Jul 23 18:15:06 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:47</td>
+<td title="Message">Initalising the  ExtentReport</td>
+</tr>
+
+<tr>
+<td>1239</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:62</td>
+<td title="Message">Execution started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>1289</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:75</td>
+<td title="Message">Execution Started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>102565</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A9 (Caviar Black, 8GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>102836</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">(Renewed) Samsung Galaxy A9 SM-A920FZKDINS (Caviar Black, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>103015</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A9 (Bubble Gum Pink, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>103184</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy M40 (Midnight Blue, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>103292</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy M31 (Space Black, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>103359</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy M21 (Midnight Blue, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>103441</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy M31 (Ocean Blue, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>103510</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A71 (Prism Crush Black, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers</td>
+</tr>
+
+<tr>
+<td>103569</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy S10 Plus (Black, 8GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>103633</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A51 (Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers</td>
+</tr>
+
+<tr>
+<td>103705</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A51 (Black, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers</td>
+</tr>
+
+<tr>
+<td>103717</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:68</td>
+<td title="Message">Execution completed on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>103941</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:55</td>
+<td title="Message">Finalizing ExtentReport</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Jul 23 18:18:24 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:47</td>
+<td title="Message">Initalising the  ExtentReport</td>
+</tr>
+
+<tr>
+<td>714</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:62</td>
+<td title="Message">Execution started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>768</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:75</td>
+<td title="Message">Execution Started on Browser:Chrome</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Jul 23 18:19:20 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:47</td>
+<td title="Message">Initalising the  ExtentReport</td>
+</tr>
+
+<tr>
+<td>568</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:62</td>
+<td title="Message">Execution started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>604</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:75</td>
+<td title="Message">Execution Started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>39025</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A9 (Caviar Black, 8GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>39162</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">(Renewed) Samsung Galaxy A9 SM-A920FZKDINS (Caviar Black, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>39271</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy M31 (Space Black, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>39446</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A9 (Bubble Gum Pink, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>39684</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy M21 (Midnight Blue, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>39973</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A71 (Prism Crush Black, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers</td>
+</tr>
+
+<tr>
+<td>40106</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy M31 (Ocean Blue, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>40273</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A51 (Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers</td>
+</tr>
+
+<tr>
+<td>40382</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy S10 Plus (Black, 8GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>40478</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A51 (Black, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers</td>
+</tr>
+
+<tr>
+<td>40585</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A51 (Blue, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers</td>
+</tr>
+
+<tr>
+<td>40602</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:68</td>
+<td title="Message">Execution completed on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>40687</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:55</td>
+<td title="Message">Finalizing ExtentReport</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Jul 23 18:20:17 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:47</td>
+<td title="Message">Initalising the  ExtentReport</td>
+</tr>
+
+<tr>
+<td>303</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:62</td>
+<td title="Message">Execution started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>333</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:75</td>
+<td title="Message">Execution Started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>64797</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A9 (Caviar Black, 8GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>64879</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A9 (Bubble Gum Pink, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>64967</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy M31 (Space Black, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>65056</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">(Renewed) Samsung Galaxy A9 SM-A920FZKDINS (Caviar Black, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>65147</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A71 (Prism Crush Black, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers</td>
+</tr>
+
+<tr>
+<td>65251</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy M21 (Midnight Blue, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>65357</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A51 (Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers</td>
+</tr>
+
+<tr>
+<td>65455</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A51 (Black, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers</td>
+</tr>
+
+<tr>
+<td>65475</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:68</td>
+<td title="Message">Execution completed on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>65526</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:55</td>
+<td title="Message">Finalizing ExtentReport</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Jul 23 18:22:10 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:47</td>
+<td title="Message">Initalising the  ExtentReport</td>
+</tr>
+
+<tr>
+<td>338</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:62</td>
+<td title="Message">Execution started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>409</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:75</td>
+<td title="Message">Execution Started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>102952</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A9 (Caviar Black, 8GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>103156</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A9 (Bubble Gum Pink, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>103478</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy M31 (Space Black, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>103671</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">(Renewed) Samsung Galaxy A9 SM-A920FZKDINS (Caviar Black, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>103846</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A71 (Prism Crush Black, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers</td>
+</tr>
+
+<tr>
+<td>103971</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Oppo Reno3 Pro (Midnight Black, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers</td>
+</tr>
+
+<tr>
+<td>103991</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:68</td>
+<td title="Message">Execution completed on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>104245</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:55</td>
+<td title="Message">Finalizing ExtentReport</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Jul 23 18:26:48 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:47</td>
+<td title="Message">Initalising the  ExtentReport</td>
+</tr>
+
+<tr>
+<td>711</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:62</td>
+<td title="Message">Execution started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>786</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:75</td>
+<td title="Message">Application Started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>70839</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A9 (Caviar Black, 8GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>70974</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A9 (Bubble Gum Pink, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>71084</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy M31 (Space Black, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>71176</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">(Renewed) Samsung Galaxy A9 SM-A920FZKDINS (Caviar Black, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>71264</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A71 (Prism Crush Black, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers</td>
+</tr>
+
+<tr>
+<td>71333</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy M21 (Midnight Blue, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>71408</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A51 (Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers</td>
+</tr>
+
+<tr>
+<td>71498</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A51 (Black, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers</td>
+</tr>
+
+<tr>
+<td>71586</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Oppo Reno3 Pro (Midnight Black, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers</td>
+</tr>
+
+<tr>
+<td>71609</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:68</td>
+<td title="Message">Execution completed on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>71657</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:55</td>
+<td title="Message">Finalizing ExtentReport</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Jul 23 18:30:08 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:47</td>
+<td title="Message">Initalising the  ExtentReport</td>
+</tr>
+
+<tr>
+<td>521</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:62</td>
+<td title="Message">Browser: Selected is Chrome</td>
+</tr>
+
+<tr>
+<td>575</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:75</td>
+<td title="Message">Application Started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>102475</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A9 (Caviar Black, 8GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>102623</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A9 (Bubble Gum Pink, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>102826</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">(Renewed) Samsung Galaxy A9 SM-A920FZKDINS (Caviar Black, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>102932</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy M31 (Space Black, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>103019</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A71 (Prism Crush Black, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers</td>
+</tr>
+
+<tr>
+<td>103031</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:68</td>
+<td title="Message">Execution completed on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>103061</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:55</td>
+<td title="Message">Finalizing ExtentReport</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Jul 23 18:33:15 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:47</td>
+<td title="Message">Initalising the  ExtentReport</td>
+</tr>
+
+<tr>
+<td>371</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:62</td>
+<td title="Message">Browser: Selected is Chrome</td>
+</tr>
+
+<tr>
+<td>401</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:75</td>
+<td title="Message">Application Started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>96236</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A9 (Caviar Black, 8GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>96324</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A9 (Bubble Gum Pink, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>96398</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy M31 (Space Black, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>96463</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">(Renewed) Samsung Galaxy A9 SM-A920FZKDINS (Caviar Black, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>96531</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A71 (Prism Crush Black, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers</td>
+</tr>
+
+<tr>
+<td>96596</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy M21 (Midnight Blue, 6GB RAM, 128GB Storage)</td>
+</tr>
+
+<tr>
+<td>96670</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A51 (Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers</td>
+</tr>
+
+<tr>
+<td>96741</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Samsung Galaxy A51 (Black, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers</td>
+</tr>
+
+<tr>
+<td>96809</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchPage category">com.pages.SearchPage</td>
+<td>SearchPage.java:64</td>
+<td title="Message">Oppo Reno3 Pro (Midnight Black, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers</td>
+</tr>
+
+<tr>
+<td>96824</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:68</td>
+<td title="Message">Execution completed on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>97508</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchTest category">com.scripts.SearchTest</td>
+<td>BaseTest.java:55</td>
+<td title="Message">Finalizing ExtentReport</td>
+</tr>

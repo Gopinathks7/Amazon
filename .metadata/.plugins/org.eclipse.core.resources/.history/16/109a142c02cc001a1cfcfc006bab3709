@@ -1,0 +1,23 @@
+package com.scripts;
+
+import org.openqa.selenium.WebDriver;
+import org.testng.annotations.Test;
+
+import com.common.BaseTest;
+import com.pages.LoginPage;
+
+public class LoginTest extends BaseTest
+{
+	
+	
+	
+@Test
+public void loginIntoGmailApplication()
+{
+//	LoginPage login= new LoginPage(driver);
+//	login.setUserName("gopinathks7");
+//	login.clickNextButton();
+//	login.setPassword("Chinnacat123#");
+//	login.clickSubmitButton();
+	}
+}

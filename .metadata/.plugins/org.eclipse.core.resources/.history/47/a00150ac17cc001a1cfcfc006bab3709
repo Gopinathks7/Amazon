@@ -1,0 +1,16 @@
+package com.scripts;
+
+import org.testng.annotations.Test;
+
+import com.common.BaseTest;
+import com.pages.SearchPage;
+
+public class SearchTest extends AmazonLoginTest
+{
+@Test
+public void search() 
+{
+	SearchPage search=new SearchPage(driver);
+	search.searchItem("samsung");
+}
+}

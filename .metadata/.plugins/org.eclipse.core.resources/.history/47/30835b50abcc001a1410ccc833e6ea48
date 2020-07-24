@@ -1,0 +1,21 @@
+package com.scripts;
+
+import org.testng.annotations.Test;
+
+import com.common.AutomationConstants;
+import com.common.BaseTest;
+import com.generic.Excel;
+import com.pages.AmazonLoginPage;
+
+public class AmazonLoginTest extends BaseTest  implements AutomationConstants{
+	@Test
+	public void AmazonLoginTesting() {
+		Excel.getCellValue(INPUT_PATH, "Sheet1", 1, 0);
+		AmazonLoginPage page = new AmazonLoginPage(driver);
+		page.ClickOnLoginButton();
+		page.setUserName("gopinathks7@gmail.com");
+		page.clickOnContinue();
+		page.setPassword("Chinnacat123#");
+		page.clickSign();
+	}
+}
